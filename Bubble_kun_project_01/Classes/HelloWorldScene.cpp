@@ -27,6 +27,7 @@ bool HelloWorld::init()
         return false;
     }
     
+	/* test for GitHub */
     Size visibleSize = Director::getInstance()->getVisibleSize();
     Point origin = Director::getInstance()->getVisibleOrigin();
 
